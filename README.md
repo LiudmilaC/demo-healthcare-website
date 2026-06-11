@@ -8,6 +8,8 @@
 
 A multi-page static website for a fictional medical clinic, built with plain HTML and CSS (no frameworks or build tools required).
 
+**Live site:** https://server.liudmila.click
+
 ## Structure
 
 ```
